@@ -1,0 +1,10 @@
+C:\Users\Diego Akbar\source\repos\Security Tools\Security Tools\bin\Debug\Security Tools.exe.config
+C:\Users\Diego Akbar\source\repos\Security Tools\Security Tools\bin\Debug\Security Tools.exe
+C:\Users\Diego Akbar\source\repos\Security Tools\Security Tools\bin\Debug\Security Tools.pdb
+C:\Users\Diego Akbar\source\repos\Security Tools\Security Tools\obj\Debug\Security_Tools.Properties.Resources.resources
+C:\Users\Diego Akbar\source\repos\Security Tools\Security Tools\obj\Debug\Security Tools.csproj.GenerateResource.cache
+C:\Users\Diego Akbar\source\repos\Security Tools\Security Tools\obj\Debug\Security Tools.exe
+C:\Users\Diego Akbar\source\repos\Security Tools\Security Tools\obj\Debug\Security Tools.pdb
+C:\Users\Diego Akbar\source\repos\Security Tools\Security Tools\obj\Debug\Security_Tools.frmTools.resources
+C:\Users\Diego Akbar\source\repos\Security Tools\Security Tools\obj\Debug\Security Tools.csprojAssemblyReference.cache
+C:\Users\Diego Akbar\source\repos\Security Tools\Security Tools\obj\Debug\Security_Tools.frmAjuda.resources
